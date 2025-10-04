@@ -1,5 +1,5 @@
 interface Transforming {
-    fun resize(zoom: Int)
+    fun resize(zoom: Float)
     // TODO: величивает фигуру, не перемещая, с сохранением пропорций
 
     fun rotate(direction: RotateDirection, centerX: Int, centerY: Int)

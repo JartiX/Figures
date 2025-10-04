@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9a6b32c-5578-4410-bafa-6b56507d845c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Figure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figure/Figure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figure/META-INF/Figure.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figure/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Figure/Rect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figure/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figure/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figure/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figure/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figure/Movable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figure/Movable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figure/Rect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figure/Rect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figure/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figure/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Figure/Transforming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Figure/Transforming.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Movable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rect.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rect.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Square.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Square.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transforming.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transforming.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,29 +36,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="20i3zOracRcUAqzmxlDFJAh5iSe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.MainKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JARTIX/Documents/GitHub/Figures",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JARTIX/Documents/GitHub/Figures&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
